@@ -4,4 +4,3 @@ USERNAME = '???'
 PASSWORD = '???'
 IP = '???'
 PORT = '???'
-CONNECTION_URL = f"mongodb://{USERNAME}:{PASSWORD}@{IP}:{PORT}"
